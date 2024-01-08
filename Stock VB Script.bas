@@ -35,7 +35,7 @@ For i = 2 To rw
 If Cells(i - 1, 1).Value <> Cells(i, 1).Value Then
 row_num = i
 ticker_name = Cells(i, 1).Value
-close_initial = Cells(i, 6).Value
+close_initial = Cells(i, 3).Value
 Cells(ticker_summary, 9).Value = ticker_name
 End If
 
