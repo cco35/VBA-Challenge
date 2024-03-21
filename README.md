@@ -1,7 +1,7 @@
 # VBA Stock Market Analysis
 
 ## Project Overview
-This repository contains VBA scripts for analyzing stock market data using Excel. The scripts are designed to loop through stock data for one year, calculate various metrics, and identify stocks with the greatest percentage increase, decrease, and total volume. The project includes different levels of solutions: basic, moderate, and hard, to cater to varying complexity requirements.
+This repository contains VBA scripts for analyzing stock market data using Excel. The scripts are designed to loop through stock data for one year, calculate various metrics, and identify stocks with the greatest percentage increase, decrease, and total volume. 
 
 ## Repository Structure
 The repository is structured as follows:
